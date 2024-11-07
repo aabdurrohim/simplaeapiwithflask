@@ -23,7 +23,7 @@ The server will start running at http://127.0.0.1:5000/.
    ```bash
    http://127.0.0.1:5000/books
    ```
-2. GET /books/id - Retrieve a specific book by ID.
+2. GET /books/<id> - Retrieve a specific book by ID.
    ```bash
    http://127.0.0.1:5000/books/<id>
    ```
