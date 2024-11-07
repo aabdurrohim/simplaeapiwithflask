@@ -1,0 +1,2 @@
+# databuku.py
+databuku = []
